@@ -1,1 +1,1 @@
-# samsnggalaxyplayer.github.io
+# samsunggalaxyplayer.github.io
