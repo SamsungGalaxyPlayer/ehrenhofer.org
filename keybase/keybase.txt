@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/justinehrenhofer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ehrenhofer.org
+  * I am justinehrenhofer (https://keybase.io/justinehrenhofer) on keybase.
+  * I have a public key with fingerprint 5CE2 611A 3956 1721 51DE  3FA5 5137 9F1B A7FC 2D05
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202a218557a7b38b58a1865b8833c78eff9f3aafc2843da7b06d782b30435ec3d60a",
+      "fingerprint": "5ce2611a3956172151de3fa551379f1ba7fc2d05",
+      "host": "keybase.io",
+      "key_id": "51379f1ba7fc2d05",
+      "kid": "010110998dc64caaa1fde10065bea22e2aa217da8a37dc909df0830c5f3ee90622f40a",
+      "uid": "dc189d565d614d2df5819a2b4c4ba219",
+      "username": "justinehrenhofer"
+    },
+    "service": {
+      "hostname": "ehrenhofer.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1530836032,
+  "expire_in": 157680000,
+  "prev": "f105c34c8bab7d3b2c43eb6d2d2e89919967a2cd617c5b6667ebfa9c2a320649",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMN0AnicbZJ/UBRlHIfv7NA6I6hRyhBGd5qIINp39/bXDcivkUsrUhtGk+J4d/dd
+bjm8vfbukAMRwSGoKbAZz5KuadBhYCYawESBlALRJBqdUDOkxgFBsWEmUYwaSXqP
+0emf9p+d3ff5Pu/n8847EP6IwWzczH0R3Tz/UphxqK/RZ8hddzStjBA12U9Yywgn
+WnyhIhl5vHanKhNWggQUSUEK8AzDQU6keZHhIeBZRuR5mpY4HimKoNAQKhLFW2gZ
+MyQrczwl0qSFZpBEyywJiURCUV0FSHfrqsuLtYyEKBYASAsMCzgKMEBGtAIZBtCc
+oAARctgnkwwedGie0AQOJ0IPSlI1/A9/2Bfj/Q//MDcJACkIvCyxFglCCBQZAZLE
+wRGkKERBXIqTIQ9pTpYEUpAVkqdJiVFohASSpSjFspjbt6iTJcALMsMyMgssMiUr
+DA8ESIkWySJikRACPUh3wR0I04U+j1d1IYeOXA5NQTpRnkjg1WJVQqEDDjV6QP7H
+JGl6Aba4dc2rSVoRXnN4vW5raNTrd4fYnUi0P7DYRdUl4wPFA8VI96iai7ACTEpe
+NaQFDI3LsCRNJRKoxK3qyK6GCIZjeRI/oW1QMVYqgGQk2iLxIhQ5mRYpyUIjkcUF
+KcQLAhAEloOUhEtzEiOyLMshUYGCREGaIllLqLYHvevSCCsl4JywADs9aoELen06
+Isr7+942GYxmw9KwJaGbZjA/Fvnw/r23JuKfmD8bD5Gft+4Jz/92rGSgfR+TEgNL
+1x5jN6mrUhZq5/Nrtmll7htrnrz5Sbzt3sapq8mHn80Y/+zUevGrbOpWOmnvnkzt
+m3981f1ru+ueSg8UBnLuasvrJo2OiMor6abOtAPMxvgKZ3J/yYrj88+9khQzWnfC
+1ho82fyhaa4qDuUlNZu2bHPawjJivmcO1HVEPLF9wVE9PhqlZ4p63fGhOM8bznNb
+z9j3B7Nr+/xZXdn+3XldXbPvy8GRg4Wuprkjm7ZXdPz6N7g7dWGhY6pjc+509PUT
+S+MDLkdM9aG8kbWpYQ1zLzvFEmXd/WAwNjaq3DRb7wkM9zaOHbtdHzN6rWnu9YWE
+L8EufvTjdlP2i+aE3obJ7po7TdOr7w1M5Zwy7hzjaluOih+c6fxhggxMv9NvrJ4T
+kr9+utRw8a0Jf+yApYjvHPwl32d47ef8y9EtYP/KyPmGYSJnZoK6cFEbL1j/0Uyl
+cUP6sktHbt+JKP9pR1qt8axjGVMa5n8zuap+NjP4aWDY+urywesbrrb9pfmEy23d
+s0NsVrP5UvuPS66sXHrTVjwSl7K6ouf5fd+Zm43P3Dh4rsr9e064OePkyKP55pkX
+lJTfEtr3ZpVoKxq5vZmDgS2tvpqeltOH3acNlRNlysius0ORe3qj6Gmr7fzWRBvZ
+I3TnZvT/cb6njQw23WoD36T+C51nwzs=
+=Ioer
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/justinehrenhofer
+
+==================================================================
