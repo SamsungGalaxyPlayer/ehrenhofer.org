@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    {% include nav.html %}
-    {% include header.html %}
-    {% include contact.html %}
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
-</html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+		        	<li><a href="https://www.linkedin.com/in/justinehrenhofer/">LinkedIn</a></li>
+					<li><a href="https://twitter.com/JEhrenhofer">Twitter</a></li>
+					<li><a href="https://matrix.to/#/@sgp_:monero.social">Matrix</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+		</body>
+	</html>

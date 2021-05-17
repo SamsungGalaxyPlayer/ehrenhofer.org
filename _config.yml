@@ -1,28 +1,2 @@
-# Site settings
-title: Ehrenhofer
-email: justin@ehrenhofer.org
-url: https://ehrenhofer.org
-description: "Welcome to the website. Please see the contact information if you need anything!"
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
-
-# Footer settings
-footer: Ehrenhofer
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/JEhrenhofer
-  - title: facebook
-    url: https://facebook.com/JustinEhrenhofer
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/justinehrenhofer/
-  - title: github
-    url: https://github.com/SamsungGalaxyPlayer
-
-# Build settings
+name: Justin Ehrenhofer
 markdown: kramdown
-permalink: pretty
